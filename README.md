@@ -11,9 +11,9 @@
   
 ## Screenshots
 
-![Login Page](/screenshots/login_page.png)
-![Dashboard](/screenshots/dashboard.png)
-![Employee Profiles](/screenshots/user_profile.png)
+![Login Page](screenshots/login_page.jpg)
+![Dashboard](screenshots/dashboard.jpg)
+![Employee Profiles](screenshots/employee_profiles.jpg)
 
 ## Technologies Used
 
